@@ -32,7 +32,7 @@ def plot(idealPath, plannedPath, plannedOrientation):
     j = 0
     for i in plannedPath:
         #Orientation arrows
-        #ax.quiver(*i,*plannedOrientation[j]*10, color='grey')
+        ax.quiver(*i,*plannedOrientation[j]*10, color='grey')
         j += 1
     #Ideal and planned path points
     ax.scatter(x_values, y_values, z_values, marker="x", c="red")
