@@ -173,6 +173,9 @@ https://drive.google.com/file/d/1hsMQyelZASHzi8NI0vK_rXx2GBuHZ9oc/view
 
 https://drive.google.com/file/d/1lencdL7x_w_hse9MZ-A8tyFtU3eu_meK/view
 
+This development is under analysis and is not included on this solution.
+
+
 ## Tests
 
 Different unit tests have been developed in order to mantain the consistency and reliability of the code. 
