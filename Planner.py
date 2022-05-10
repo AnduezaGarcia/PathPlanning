@@ -73,5 +73,4 @@ def rotation_matrix(vec1, vec2):
     return rotation_matrix
 
 def unit_vector(vector):
-    print(vector, vector / np.linalg.norm(vector))
     return vector / np.linalg.norm(vector)
