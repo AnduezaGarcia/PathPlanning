@@ -104,9 +104,9 @@ A local error is shown. This is the largest error produced at each corner.
  
 ### Plot output
 
-![](https://drive.google.com/file/d/1ZFdYiLRlHJZLzMM9Gtm9CkgL2bgDQFNz/view)
+https://drive.google.com/file/d/1ZFdYiLRlHJZLzMM9Gtm9CkgL2bgDQFNz/view
 
-![](https://drive.google.com/file/d/1pMi6Xk-kIr58JX0E2BW3B3m2kNVWD04s/view)
+https://drive.google.com/file/d/1pMi6Xk-kIr58JX0E2BW3B3m2kNVWD04s/view)
 
 - Red path and points: Ideal path
 - Green path and points: Planned path and points
@@ -118,11 +118,11 @@ A local error is shown. This is the largest error produced at each corner.
 
 - Initial XLocal orientation is maintained until point A is reached 
 
-![](https://drive.google.com/file/d/1SLwCqa6-bSRH2YZao2zMS50Ty-pf3PJv/view)
+https://drive.google.com/file/d/1SLwCqa6-bSRH2YZao2zMS50Ty-pf3PJv/view
 
 - XLocal orientation is maintained parallel to the ideal path segment
 
-![](https://drive.google.com/file/d/1mqZTvFkhFX1KYGe6IayFD_FomaT4Tgn-/view)
+https://drive.google.com/file/d/1mqZTvFkhFX1KYGe6IayFD_FomaT4Tgn-/view
 
 (This is hard to see on the graph when the path has long segments)
 
@@ -169,9 +169,9 @@ A local error is shown. This is the largest error produced at each corner.
 
 To minimize the deviation of the trajectory from the point of maximum error to the next ideal point, a solution has been tried to recalculate the first point of the next ideal segment, as shown in the image:
 
-![](https://drive.google.com/file/d/1hsMQyelZASHzi8NI0vK_rXx2GBuHZ9oc/view)
+https://drive.google.com/file/d/1hsMQyelZASHzi8NI0vK_rXx2GBuHZ9oc/view
 
-![](https://drive.google.com/file/d/1lencdL7x_w_hse9MZ-A8tyFtU3eu_meK/view)
+https://drive.google.com/file/d/1lencdL7x_w_hse9MZ-A8tyFtU3eu_meK/view
 
 ## Tests
 
